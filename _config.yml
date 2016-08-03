@@ -1,0 +1,14 @@
+layout_spectrum: 0.8012387200724334
+typography_spectrum: 0.19533953559584916
+color:
+  brandStrength: 0.9799256171099842
+  lightness: 0.0011270276736468077
+  saturation: 0.35306257754564285
+  rhythmicContrast: 0.6335592535324395
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 2StepsAhead.US
